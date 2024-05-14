@@ -1,0 +1,67 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 676px;
+    height: 264px;
+    background-color: #F4F9F3;
+    border-radius: 39px;
+    margin-top: -150px;
+}
+
+.div span {
+    width: 400px;
+    font-size: 20px;
+    color: #484545;
+    font-family: "Epilogue", sans-serif;
+}
+
+.containerdiv {
+    display: flex;
+}
+
+.blocos {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 282px;
+    height: 112px;
+    background-color: #D9D9D9;
+    margin-top: 3rem;
+    margin-left: 2rem;
+
+}
+
+.blocos span {
+    font-size: 16px;
+    color: #000000;
+    width: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.containertext{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 430px;
+    margin-top: 2rem;
+}
+
+.containertext span {
+    font-size: 15px;
+    color: #484545;
+    margin-top: 1rem;
+}
+
+

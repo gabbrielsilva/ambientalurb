@@ -1,0 +1,15 @@
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 99.95%;
+    height: 4rem;
+    background-color: #58774C;
+    margin-top: -4px;
+}
+
+.container span {
+    font-size: 14px;
+    color: #fff;
+}
+

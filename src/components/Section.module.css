@@ -1,0 +1,55 @@
+.retangulo {
+    background-color: #BEBEBE;
+    width: 99.95%;
+    height: 21px;
+    margin-top: 4rem;
+}
+
+.section {
+    display: inline-block;
+    position: relative;
+    width: 100%;
+}
+.section img {
+    width: 100%;
+
+}
+
+.section form {
+    position: absolute;
+    top: 100px;
+    margin-left: 100px;
+
+}
+
+form input {
+    width: 17rem;
+    height: 1.5rem;
+}
+
+.form .increver {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 12rem;
+    height: 2rem;
+    background-color: #fff;
+    border: 1px solid #3B4E92;
+    border-radius: 6px;
+    padding: 0.5rem;
+    margin-top: 1rem;
+}
+
+form span:first-of-type {
+    font-size: 24px;
+    color: #484545;
+}
+
+form h6 {
+    font-size: 10px;
+    color: #484545;
+}
+
+.form a {
+    text-decoration: none;
+}

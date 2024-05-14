@@ -1,0 +1,36 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.containerSobrenos {
+    width: 676px;
+    background-color: #F4F9F3;
+    margin-top: -150px;
+    border-radius: 39px;
+}
+
+.sobrenos {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 2rem;
+}
+
+.sobrenos span {
+    font-size: 48px;
+    color: #678363;
+    font-family: "Epilogue", sans-serif;
+    margin-bottom: 1.5rem;
+}
+
+.containertext {
+    width: 415px;
+    margin-top: 2rem;
+}
+
+.containertext text {
+    font-size: 15px;
+}

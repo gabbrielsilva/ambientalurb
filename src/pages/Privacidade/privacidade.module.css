@@ -1,0 +1,34 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.divcontainer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 676px;
+    height: 131px;
+    border-radius: 39px;
+    background-color: #f4f9f3;
+    margin-top: -70px;
+}
+
+.divcontainer p {
+    font-size: 24px;
+    color: #678363;
+}
+
+.containerText{
+    display: flex;
+    flex-direction: column;
+    width: 459px;
+    margin-top: 3rem;
+}
+
+.containerText span {
+    margin-top: 1rem;
+    font-size: 16px;
+}
